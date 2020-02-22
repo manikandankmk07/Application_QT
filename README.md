@@ -1,5 +1,5 @@
 # Application_QT
-
+Winways Application 4th revision
 
 copy  /usr/lib/qt4/plugins/sqldrivers/
 copy  /lib/modules/3.10.108+/kernel/drivers/net/usb/
